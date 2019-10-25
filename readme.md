@@ -1,1 +1,0 @@
-1.file from untrack to track ,use 'git add' command.
